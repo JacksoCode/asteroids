@@ -2,3 +2,5 @@ venv/
 __pycache__/
 requirements.txt
 constants.py
+circleshape.py
+player.py
