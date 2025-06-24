@@ -1,9 +1,3 @@
 venv/
 __pycache__/
 requirements.txt
-constants.py
-circleshape.py
-player.py
-asteroid.py
-asteroidfield.py
-shot.py
