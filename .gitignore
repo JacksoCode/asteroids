@@ -6,3 +6,4 @@ circleshape.py
 player.py
 asteroid.py
 asteroidfield.py
+shot.py
