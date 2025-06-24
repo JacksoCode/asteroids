@@ -4,3 +4,5 @@ requirements.txt
 constants.py
 circleshape.py
 player.py
+asteroid.py
+asteroidfield.py
